@@ -1,3 +1,3 @@
-module github.com/Sinojin/go-money
+module github.com/Rhymond/go-money
 
-go 1.14
+go 1.13
